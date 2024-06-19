@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View this Project [Live Link](https://logesh-gemini-clone-60028867691.development.catalystserverless.in/app/index.html).
 
 ## Available Scripts
 
